@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Simpel</string>
+    <string name="layer_1_title">Data Diri Mahasiswa</string>
+    <string name="layer_1_subtitle">Silakan isi formulir di bawah ini dengan lengkap untuk melanjutkan ke Layer 2.</string>
+    
+    <!-- Field Labels & Hints -->
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="hint_nama">Masukkan nama lengkap</string>
+    
+    <string name="label_nrp">NRP Mahasiswa</string>
+    <string name="hint_nrp">Contoh: 5027241001</string>
+    
+    <string name="label_tempat_lahir">Tempat Lahir</string>
+    <string name="hint_tempat_lahir">Contoh: Surabaya</string>
+    
+    <string name="label_tanggal_lahir">Tanggal Lahir</string>
+    <string name="hint_tanggal_lahir">Pilih tanggal lahir dari kalender</string>
+    
+    <string name="label_asal">Asal Daerah</string>
+    <string name="hint_asal">Contoh: Gresik, Jawa Timur</string>
+    
+    <string name="label_hobi">Hobi</string>
+    <string name="hint_hobi">Contoh: Coding, Bulu Tangkis</string>
+    
+    <string name="label_mbti">MBTI</string>
+    <string name="hint_mbti">Contoh: INTJ, ENFP, INFJ</string>
+    
+    <string name="label_umur">Umur (Tahun)</string>
+    <string name="hint_umur">Contoh: 20</string>
+    
+    <!-- Buttons -->
+    <string name="btn_next">Lanjut ke Halaman 2 (Next)</string>
+    <string name="btn_back">Tutup &amp; Kembali ke Halaman Awal</string>
+    
+    <!-- Layer 2 Strings -->
+    <string name="layer_2_title">Ringkasan Data Diri</string>
+    <string name="layer_2_subtitle">Data yang telah Anda inputkan pada Layer 1 berhasil diterima melalui Intent.</string>
+    <string name="info_card_title">Biodata Mahasiswa</string>
+    <string name="validation_empty_fields">Mohon isi semua data sebelum melanjutkan!</string>
+    
+    <!-- CRUD & Navigation Strings -->
+    <string name="btn_crud">Kelola Biodata (CRUD)</string>
+    <string name="crud_title">Kelola Database Mahasiswa</string>
+    <string name="crud_subtitle">Fitur CRUD SQLite &amp; SharedPreferences (Praktikum P04)</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_cari">Cari</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_hapus">Hapus</string>
+    
+    <string name="toast_simpan">Data Tersimpan</string>
+    <string name="toast_ditemukan">Data Ditemukan</string>
+    <string name="toast_tidak_ditemukan">Data Tidak Ditemukan</string>
+    <string name="toast_update">Data Terupdate</string>
+    <string name="toast_hapus">Data Terhapus</string>
+</resources>
